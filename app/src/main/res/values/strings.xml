@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="hello">I love Android</string>
+    <string name="checkb">Check this out!</string>
+    <string name="hint">I love Android</string>
+    <string name="toggleswitch">Switch on/off</string>
+    <string name="myButton">PRESS ME</string>
+    <string name="toast_message">Label has been updated</string>
+
+</resources>
